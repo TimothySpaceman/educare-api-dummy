@@ -1,0 +1,26 @@
+{
+  "7021580518213953": {
+    "first_name": "First 2",
+    "last_name": "Last 2",
+    "email": "test2@gmail.com",
+    "password": "Pass1234",
+    "role": "ROLE_RICK",
+    "faculty_id": 3,
+    "phone": "0123456789",
+    "online_status": false,
+    "last_seen": 1730882481140,
+    "id": 7021580518213953
+  },
+  "1529124417475348": {
+    "first_name": "First 1",
+    "last_name": "Last 1",
+    "email": "test1@gmail.com",
+    "password": "Pass1234",
+    "role": "ROLE_USER",
+    "faculty_id": 2552052406708428,
+    "phone": "0123456789",
+    "online_status": false,
+    "last_seen": 1730883077704,
+    "id": 1529124417475348
+  }
+}
