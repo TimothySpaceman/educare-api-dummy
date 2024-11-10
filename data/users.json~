@@ -22,17 +22,5 @@
     "online_status": false,
     "last_seen": 1730883077704,
     "id": 1529124417475348
-  },
-    "1529124417475348": {
-    "first_name": "Timothy",
-    "last_name": "Spaceman",
-    "email": "tim@gmail.com",
-    "password": "Pass1234",
-    "role": "ROLE_USER",
-    "faculty_id": 2552052406708428,
-    "phone": "0123456789",
-    "online_status": false,
-    "last_seen": 1730883077704,
-    "id": 1892935423642154
-  } 
+  }
 }
